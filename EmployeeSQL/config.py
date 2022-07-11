@@ -1,1 +1,0 @@
-Posgres_Lopokoiyit = "Fedelma22!"
